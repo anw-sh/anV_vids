@@ -1,11 +1,11 @@
 # Fedora 41 Post-installation Commands
 
 Resources
-- [ItsFoss](https://itsfoss.com/things-to-do-after-installing-fedora/)
-- [HackingTheHike](https://www.hackingthehike.com/)
-- [dnf5 docs](https://dnf5.readthedocs.io/en/latest/dnf5.conf.5.html#options-for-both-main-and-repo)
+- [DNF5 docs](https://dnf5.readthedocs.io/en/latest/dnf5.conf.5.html#options-for-both-main-and-repo)
 - [RPM Fusion](https://rpmfusion.org/Configuration)
 - [NVIDIA drivers](https://rpmfusion.org/Howto/NVIDIA)
+- [ItsFoss](https://itsfoss.com/things-to-do-after-installing-fedora/)
+- [HackingTheHike](https://www.hackingthehike.com/)
 
 ## Edit the DNF configuration file
 ```bash
