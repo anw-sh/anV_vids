@@ -1,5 +1,10 @@
-# anV_vids
-Additional information for [Analysis Venue](https://www.youtube.com/@analysisVenue) channel
+# [Analysis Venue](https://www.youtube.com/@analysisVenue)
+Additional files for the channel
 
-## [Pre1b: Configuring Linux Installation (Fedora 41)](https://youtu.be/VxMz5aVqJ0Q) - Video
-[Commands](https://github.com/anw-sh/anV_vids/blob/main/pre1b_commands.md) used
+## Playlists
+- [BioInfo_Setup](https://www.youtube.com/playlist?list=PLVodCSCi9iC1oNxAbQhrmrYrMWb1KtF-T)
+- [Fedora_QuickBytes](https://www.youtube.com/playlist?list=PLVodCSCi9iC1kA9XLZEdFGBJ_JRsDrKhD)
+
+## Files
+- Pre1b - Fedora 41: Post installation setup - [Video](https://youtu.be/VxMz5aVqJ0Q) | [Commands](https://github.com/anw-sh/anV_vids/blob/main/pre1b_commands.md)
+- Webserver setup in Fedora - Video | Commands
